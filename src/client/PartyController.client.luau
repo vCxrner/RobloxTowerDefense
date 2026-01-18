@@ -1,3 +1,5 @@
+-- Louis stinkt
+
 local players = game:GetService("Players")
 local localPlayer = players.LocalPlayer
 
